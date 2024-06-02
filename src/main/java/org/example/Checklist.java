@@ -4,7 +4,7 @@ package org.example;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Checklist extends Tarefa {
+public class Checklist  {
 
     private List<Tarefa> listaTarefas = new ArrayList<>();
 

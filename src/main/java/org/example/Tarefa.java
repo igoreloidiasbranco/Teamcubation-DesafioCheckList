@@ -6,9 +6,7 @@ public class Tarefa {
     private String descricao;
     private boolean concluida;
 
-    public void alterarStatusTarefa(int id, boolean status) {
 
-    }
 
     public int getId() {
         return id;
